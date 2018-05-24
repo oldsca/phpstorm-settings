@@ -1,0 +1,25 @@
+<templateSet group="PHP">
+  <template name="office" value="error_reporting(E_ALL);&#10;$remote_addr = isset($_SERVER[&quot;REMOTE_ADDR&quot;]) ? $_SERVER[&quot;REMOTE_ADDR&quot;] : '';&#10;$http_x = isset($_SERVER[&quot;HTTP_X_FORWARDED_FOR&quot;]) ? $_SERVER[&quot;HTTP_X_FORWARDED_FOR&quot;] : '';&#10;if ($remote_addr == &quot;72.43.225.198&quot; || $http_x == &quot;72.43.225.198&quot;) {&#10;  ini_set('display_errors', true);&#10;} else {&#10;  ini_set('display_errors', false);&#10;}&#10;$END$" description="show errors in office" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+      <option name="PHP Class Member" value="false" />
+      <option name="PHP Comment" value="false" />
+      <option name="PHP String Literal" value="false" />
+    </context>
+  </template>
+  <template name="pdoiflip" value="$pdo_iflip = new Database('iflip');" description="iflip connection" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="pdocon" value="require_once '/home/myiflip/public_html/connection_pdo.php';" description="php data connections" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="pdopldf" value="$pdo_pldf = new Database('pldf');" description="pldf connection" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
