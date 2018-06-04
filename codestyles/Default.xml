@@ -19,6 +19,8 @@
     <option name="SPACE_BEFORE_GENERATOR_MULT" value="true" />
     <option name="SPACE_AFTER_DOTS_IN_REST_PARAMETER" value="true" />
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
     <option name="INDENT_CHAINED_CALLS" value="false" />
     <option name="SPACE_BEFORE_ASYNC_ARROW_LPAREN" value="false" />
   </JSCodeStyleSettings>
@@ -34,6 +36,10 @@
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
     <option name="SPACE_AROUND_ASSIGNMENT_IN_DECLARE" value="true" />
   </PHPCodeStyleSettings>
+  <TypeScriptCodeStyleSettings>
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
+  </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="CSS">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
