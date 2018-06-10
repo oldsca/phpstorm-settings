@@ -9,6 +9,7 @@
       <mapping pattern="fef11456313abb640d93faa11dff6ba5fdff60c347c27003f61cc84beff7003f8746e7015819b034d7532b5e0df8a8d5d3605e2784545243f3ced0a3e8ae610f" type="PLAIN_TEXT" />
       <mapping pattern="Valentine's Day Bugs" type="PLAIN_TEXT" />
       <mapping pattern="error_log" type="PLAIN_TEXT" />
+      <mapping ext="z" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
