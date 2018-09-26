@@ -4,11 +4,13 @@
       <properties>
         <option name="frameworkName" value="jQuery" />
         <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.jsdelivr.net_jquery_3.2.1_jquery.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_1.9.1_jquery.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_3.3.1_jquery.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.jsdelivr.net_jquery_3.2.1_jquery.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_1.9.1_jquery.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_3.3.1_jquery.js" />
       </CLASSES>
