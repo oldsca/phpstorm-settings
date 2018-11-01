@@ -39,6 +39,11 @@
       <SOURCES />
     </library>
     <library name="locations" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__resources.rewn.io_plugins_locations.min.js" />
+        </sourceFilesUrls>
+      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__resources.rewn.io_plugins_locations.min.js" />
       </CLASSES>
