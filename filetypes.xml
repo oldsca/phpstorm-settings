@@ -7,6 +7,7 @@
       <mapping pattern="error_log" type="PLAIN_TEXT" />
       <mapping pattern="mysql" type="PLAIN_TEXT" />
       <mapping pattern="adf" type="PLAIN_TEXT" />
+      <mapping pattern="ServerSide" type="Vue.js" />
     </extensionMap>
   </component>
 </application>
