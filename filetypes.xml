@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="pof" type="PLAIN_TEXT" />
+      <mapping pattern="00000001" type="PLAIN_TEXT" />
       <mapping pattern="tasks" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="error_log" type="PLAIN_TEXT" />
