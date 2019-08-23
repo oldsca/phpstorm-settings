@@ -7,6 +7,22 @@
     <option name="HEX_COLOR_UPPER_CASE" value="true" />
     <option name="HEX_COLOR_LONG_FORMAT" value="true" />
   </CssCodeStyleSettings>
+  <DB2CodeStyleSettings version="2">
+    <option name="SET_EL_WRAP" value="3" />
+    <option name="SELECT_EL_WRAP" value="3" />
+  </DB2CodeStyleSettings>
+  <DerbyCodeStyleSettings version="2">
+    <option name="SET_EL_WRAP" value="3" />
+    <option name="SELECT_EL_WRAP" value="3" />
+  </DerbyCodeStyleSettings>
+  <H2CodeStyleSettings version="2">
+    <option name="SET_EL_WRAP" value="3" />
+    <option name="SELECT_EL_WRAP" value="3" />
+  </H2CodeStyleSettings>
+  <HSQLCodeStyleSettings version="2">
+    <option name="SET_EL_WRAP" value="3" />
+    <option name="SELECT_EL_WRAP" value="3" />
+  </HSQLCodeStyleSettings>
   <HTMLCodeStyleSettings>
     <option name="HTML_ATTRIBUTE_WRAP" value="0" />
     <option name="HTML_KEEP_LINE_BREAKS_IN_TEXT" value="false" />
@@ -23,8 +39,19 @@
     <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
     <option name="INDENT_CHAINED_CALLS" value="false" />
-    <option name="SPACE_BEFORE_ASYNC_ARROW_LPAREN" value="false" />
   </JSCodeStyleSettings>
+  <MSSQLCodeStyleSettings version="2">
+    <option name="SET_EL_WRAP" value="3" />
+    <option name="SELECT_EL_WRAP" value="3" />
+  </MSSQLCodeStyleSettings>
+  <MySQLCodeStyleSettings version="2">
+    <option name="SET_EL_WRAP" value="3" />
+    <option name="SELECT_EL_WRAP" value="3" />
+  </MySQLCodeStyleSettings>
+  <OracleCodeStyleSettings version="2">
+    <option name="SET_EL_WRAP" value="3" />
+    <option name="SELECT_EL_WRAP" value="3" />
+  </OracleCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
@@ -38,10 +65,22 @@
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
     <option name="SPACE_AROUND_ASSIGNMENT_IN_DECLARE" value="true" />
   </PHPCodeStyleSettings>
+  <PostgresCodeStyleSettings version="2">
+    <option name="SET_EL_WRAP" value="3" />
+    <option name="SELECT_EL_WRAP" value="3" />
+  </PostgresCodeStyleSettings>
+  <SQLiteCodeStyleSettings version="2">
+    <option name="SET_EL_WRAP" value="3" />
+    <option name="SELECT_EL_WRAP" value="3" />
+  </SQLiteCodeStyleSettings>
   <SqlCodeStyleSettings version="2">
     <option name="SET_EL_WRAP" value="3" />
     <option name="SELECT_EL_WRAP" value="3" />
   </SqlCodeStyleSettings>
+  <SybaseCodeStyleSettings version="2">
+    <option name="SET_EL_WRAP" value="3" />
+    <option name="SELECT_EL_WRAP" value="3" />
+  </SybaseCodeStyleSettings>
   <TypeScriptCodeStyleSettings version="0">
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
