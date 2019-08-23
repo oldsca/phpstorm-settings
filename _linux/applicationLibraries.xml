@@ -1,0 +1,15 @@
+<application>
+  <component name="libraryTable">
+    <library name="data" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__resources.rewn.io_plugins_data.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__resources.rewn.io_plugins_data.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
