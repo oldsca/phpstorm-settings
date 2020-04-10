@@ -27,4 +27,10 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="cloud" value="https://dlbf54swf3l6o.cloudfront.net/images/" shortcut="ENTER" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
