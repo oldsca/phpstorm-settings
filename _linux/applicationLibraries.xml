@@ -11,6 +11,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="bootstrap" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_twitter-bootstrap_3.3.7_js_bootstrap.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_twitter-bootstrap_3.3.7_js_bootstrap.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="data" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -19,6 +30,28 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__resources.rewn.io_plugins_data.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="dataTables.bootstrap" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_datatables_1.10.16_js_dataTables.bootstrap.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_datatables_1.10.16_js_dataTables.bootstrap.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="isotope.pkgd" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_jquery.isotope_3.0.4_isotope.pkgd.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_jquery.isotope_3.0.4_isotope.pkgd.js" />
       </CLASSES>
       <SOURCES />
     </library>
@@ -35,6 +68,17 @@
       <DOCUMENTATION>
         <root url="http://api.jquery.com" />
       </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="jquery.dataTables" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_datatables_1.10.16_js_jquery.dataTables.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_datatables_1.10.16_js_jquery.dataTables.js" />
+      </CLASSES>
       <SOURCES />
     </library>
     <library name="lodash" type="javaScript">
@@ -59,6 +103,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="plugin" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_auth.rewn.io_plugin.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_auth.rewn.io_plugin.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="sweetalert" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -67,6 +122,17 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_sweetalert_1.1.3_sweetalert.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="vue" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_vue_2.6.10_vue.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_vue_2.6.10_vue.js" />
       </CLASSES>
       <SOURCES />
     </library>
