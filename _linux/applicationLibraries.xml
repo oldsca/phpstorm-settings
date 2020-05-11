@@ -22,6 +22,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="bootstrap-datepicker" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_bootstrap-datepicker_1.9.0_js_bootstrap-datepicker.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_bootstrap-datepicker_1.9.0_js_bootstrap-datepicker.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="data" type="javaScript">
       <properties>
         <sourceFilesUrls>
