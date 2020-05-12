@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="portfolio-notes" type="JavaScript" />
       <mapping pattern="error_log" type="PLAIN_TEXT" />
       <mapping pattern="testing" type="PLAIN_TEXT" />
       <mapping pattern="pw" type="PLAIN_TEXT" />
