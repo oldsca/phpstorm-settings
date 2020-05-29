@@ -19,6 +19,7 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="aggs" type="TypeScript" />
       <mapping pattern="functions" type="TypeScript" />
+      <mapping pattern="scratch-landUse" type="TypeScript" />
       <mapping pattern="scratch-regex" type="TypeScript" />
       <mapping pattern="Oauth_REWN" type="TypeScript" />
       <mapping pattern="scratch-ibdf-apn-lookup" type="TypeScript" />
