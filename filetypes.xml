@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="portfolio-notes" type="JavaScript" />
-      <mapping pattern="error_log" type="PLAIN_TEXT" />
       <mapping pattern="testing" type="PLAIN_TEXT" />
       <mapping pattern="pw" type="PLAIN_TEXT" />
       <mapping pattern="00000001" type="PLAIN_TEXT" />
@@ -13,6 +12,7 @@
       <mapping pattern="pof" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="tasks" type="PLAIN_TEXT" />
+      <mapping pattern="error_log" type="PLAIN_TEXT" />
       <mapping pattern="mysql" type="PLAIN_TEXT" />
       <mapping ext="save" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
