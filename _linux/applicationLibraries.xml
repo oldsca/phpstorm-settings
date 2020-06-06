@@ -55,6 +55,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="datetime-moment" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.datatables.net_plug-ins_1.10.16_sorting_datetime-moment.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.datatables.net_plug-ins_1.10.16_sorting_datetime-moment.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="isotope.pkgd" type="javaScript">
       <properties>
         <sourceFilesUrls>
