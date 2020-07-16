@@ -2,29 +2,29 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="portfolio-notes" type="JavaScript" />
+      <mapping pattern="env" type="PLAIN_TEXT" />
+      <mapping pattern="pof" type="PLAIN_TEXT" />
       <mapping pattern="testing" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="instructions-read-me" type="PLAIN_TEXT" />
+      <mapping pattern="adf" type="PLAIN_TEXT" />
+      <mapping pattern="tasks" type="PLAIN_TEXT" />
+      <mapping pattern="mysql" type="PLAIN_TEXT" />
+      <mapping pattern=".bablerc" type="PLAIN_TEXT" />
+      <mapping pattern="error_log" type="PLAIN_TEXT" />
       <mapping pattern="pw" type="PLAIN_TEXT" />
       <mapping pattern="00000001" type="PLAIN_TEXT" />
-      <mapping pattern="env" type="PLAIN_TEXT" />
-      <mapping pattern="instructions-read-me" type="PLAIN_TEXT" />
-      <mapping pattern=".bablerc" type="PLAIN_TEXT" />
-      <mapping pattern="adf" type="PLAIN_TEXT" />
-      <mapping pattern="pof" type="PLAIN_TEXT" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern="tasks" type="PLAIN_TEXT" />
-      <mapping pattern="error_log" type="PLAIN_TEXT" />
-      <mapping pattern="mysql" type="PLAIN_TEXT" />
       <mapping ext="save" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern="aggs" type="TypeScript" />
-      <mapping pattern="functions" type="TypeScript" />
-      <mapping pattern="scratch-landUse" type="TypeScript" />
-      <mapping pattern="scratch-regex" type="TypeScript" />
-      <mapping pattern="Oauth_REWN" type="TypeScript" />
-      <mapping pattern="scratch-ibdf-apn-lookup" type="TypeScript" />
       <mapping pattern="Oauth" type="TypeScript" />
       <mapping pattern="hash" type="TypeScript" />
+      <mapping pattern="functions" type="TypeScript" />
+      <mapping pattern="scratch-landUse" type="TypeScript" />
+      <mapping pattern="scratch-ibdf-apn-lookup" type="TypeScript" />
+      <mapping pattern="aggs" type="TypeScript" />
+      <mapping pattern="scratch-regex" type="TypeScript" />
+      <mapping pattern="Oauth_REWN" type="TypeScript" />
       <mapping pattern="ServerSide" type="Vue.js" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
