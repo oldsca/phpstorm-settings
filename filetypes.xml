@@ -6,6 +6,7 @@
       <mapping pattern="pof" type="PLAIN_TEXT" />
       <mapping pattern="testing" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="qandahold" type="PLAIN_TEXT" />
       <mapping pattern="instructions-read-me" type="PLAIN_TEXT" />
       <mapping pattern="adf" type="PLAIN_TEXT" />
       <mapping pattern="tasks" type="PLAIN_TEXT" />
