@@ -5,6 +5,7 @@
       <mapping pattern="env" type="PLAIN_TEXT" />
       <mapping pattern="pof" type="PLAIN_TEXT" />
       <mapping pattern="testing" type="PLAIN_TEXT" />
+      <mapping pattern="scratch-msdf-alerts" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="qandahold" type="PLAIN_TEXT" />
       <mapping pattern="instructions-read-me" type="PLAIN_TEXT" />
