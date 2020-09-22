@@ -17,6 +17,7 @@
       <mapping pattern="pw" type="PLAIN_TEXT" />
       <mapping pattern="00000001" type="PLAIN_TEXT" />
       <mapping ext="save" type="PLAIN_TEXT" />
+      <mapping ext="vcf" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="Oauth" type="TypeScript" />
