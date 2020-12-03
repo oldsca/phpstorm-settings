@@ -1,7 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <removed_mapping pattern=".prettierrc" type="JSON" />
+      <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern="portfolio-notes" type="JavaScript" />
       <mapping pattern="env" type="PLAIN_TEXT" />
       <mapping pattern="pof" type="PLAIN_TEXT" />
