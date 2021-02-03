@@ -20,6 +20,7 @@
       <mapping ext="sh" type="PLAIN_TEXT" />
       <mapping ext="save" type="PLAIN_TEXT" />
       <mapping ext="vcf" type="PLAIN_TEXT" />
+      <mapping ext="csv_2021-02-03" type="PLAIN_TEXT" />
       <mapping pattern="Oauth" type="TypeScript" />
       <mapping pattern="hash" type="TypeScript" />
       <mapping pattern="functions" type="TypeScript" />
