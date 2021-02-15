@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="lookups" type="AUTO_DETECTED" />
       <mapping pattern="config" type="AUTO_DETECTED" />
       <mapping pattern="scratch-msdf-update-by-query" type="AUTO_DETECTED" />
       <mapping pattern="portfolio-notes" type="JavaScript" />
