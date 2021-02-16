@@ -12,8 +12,8 @@
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="qandahold" type="PLAIN_TEXT" />
       <mapping pattern="instructions-read-me" type="PLAIN_TEXT" />
-      <mapping pattern="adf" type="PLAIN_TEXT" />
       <mapping pattern="tasks" type="PLAIN_TEXT" />
+      <mapping pattern="adf" type="PLAIN_TEXT" />
       <mapping pattern="mysql" type="PLAIN_TEXT" />
       <mapping pattern=".bablerc" type="PLAIN_TEXT" />
       <mapping pattern="error_log" type="PLAIN_TEXT" />
