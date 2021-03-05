@@ -1,8 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="compactMenus" value="true" />
-    <option name="compactStatusBar" value="true" />
-    <option name="compactTables" value="true" />
+    <option name="premium" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="darkTitleBar" value="true" />
     <option name="isCompactMenus" value="true" />
@@ -15,6 +13,6 @@
     <option name="highlightColor" value="80cbc4" />
     <option name="selectedTheme" value="CUSTOM" />
     <option name="userId" value="2741ba13:163eb483a8d:-7fff" />
-    <option name="version" value="5.5.0" />
+    <option name="version" value="6.1.1" />
   </component>
 </application>
