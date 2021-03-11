@@ -1,25 +1,31 @@
 <code_scheme name="Default" version="173">
   <option name="AUTODETECT_INDENTS" value="false" />
-  <option name="HTML_ATTRIBUTE_WRAP" value="0" />
-  <option name="HTML_KEEP_LINE_BREAKS" value="false" />
-  <option name="HTML_KEEP_LINE_BREAKS_IN_TEXT" value="false" />
   <CssCodeStyleSettings>
     <option name="HEX_COLOR_UPPER_CASE" value="true" />
     <option name="HEX_COLOR_LONG_FORMAT" value="true" />
   </CssCodeStyleSettings>
-  <DB2CodeStyleSettings version="2">
+  <DB2CodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SET_EL_WRAP" value="3" />
     <option name="SELECT_EL_WRAP" value="3" />
   </DB2CodeStyleSettings>
-  <DerbyCodeStyleSettings version="2">
+  <DerbyCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SET_EL_WRAP" value="3" />
     <option name="SELECT_EL_WRAP" value="3" />
   </DerbyCodeStyleSettings>
-  <H2CodeStyleSettings version="2">
+  <H2CodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SET_EL_WRAP" value="3" />
     <option name="SELECT_EL_WRAP" value="3" />
   </H2CodeStyleSettings>
-  <HSQLCodeStyleSettings version="2">
+  <H2CodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="SET_EL_WRAP" value="3" />
+    <option name="SELECT_EL_WRAP" value="3" />
+  </H2CodeStyleSettings>
+  <HSQLCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SET_EL_WRAP" value="3" />
     <option name="SELECT_EL_WRAP" value="3" />
   </HSQLCodeStyleSettings>
@@ -30,6 +36,7 @@
     <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="input,body,div,p,form,h1,h2,h3,select" />
     <option name="HTML_ELEMENTS_TO_REMOVE_NEW_LINE_BEFORE" value="" />
     <option name="HTML_INLINE_ELEMENTS" value="a,abbr,acronym,b,basefont,bdo,big,cite,cite,code,dfn,em,font,i,img,kbd,label,q,s,samp,span,strike,strong,sub,sup,textarea,tt,u,var" />
+    <option name="HTML_ENFORCE_QUOTES" value="true" />
   </HTMLCodeStyleSettings>
   <JSCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
@@ -44,15 +51,18 @@
   <JSON>
     <option name="ARRAY_WRAPPING" value="0" />
   </JSON>
-  <MSSQLCodeStyleSettings version="2">
+  <MSSQLCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SET_EL_WRAP" value="3" />
     <option name="SELECT_EL_WRAP" value="3" />
   </MSSQLCodeStyleSettings>
-  <MySQLCodeStyleSettings version="2">
+  <MySQLCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SET_EL_WRAP" value="3" />
     <option name="SELECT_EL_WRAP" value="3" />
   </MySQLCodeStyleSettings>
-  <OracleCodeStyleSettings version="2">
+  <OracleCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SET_EL_WRAP" value="3" />
     <option name="SELECT_EL_WRAP" value="3" />
   </OracleCodeStyleSettings>
@@ -69,19 +79,22 @@
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
     <option name="SPACE_AROUND_ASSIGNMENT_IN_DECLARE" value="true" />
   </PHPCodeStyleSettings>
-  <PostgresCodeStyleSettings version="2">
+  <PostgresCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SET_EL_WRAP" value="3" />
     <option name="SELECT_EL_WRAP" value="3" />
   </PostgresCodeStyleSettings>
-  <SQLiteCodeStyleSettings version="2">
+  <SQLiteCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SET_EL_WRAP" value="3" />
     <option name="SELECT_EL_WRAP" value="3" />
   </SQLiteCodeStyleSettings>
-  <SqlCodeStyleSettings version="2">
+  <SqlCodeStyleSettings version="5">
     <option name="SET_EL_WRAP" value="3" />
     <option name="SELECT_EL_WRAP" value="3" />
   </SqlCodeStyleSettings>
-  <SybaseCodeStyleSettings version="2">
+  <SybaseCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SET_EL_WRAP" value="3" />
     <option name="SELECT_EL_WRAP" value="3" />
   </SybaseCodeStyleSettings>
