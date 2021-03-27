@@ -4,6 +4,7 @@
       <mapping pattern="lookups" type="AUTO_DETECTED" />
       <mapping pattern="config" type="AUTO_DETECTED" />
       <mapping pattern="scratch-msdf-update-by-query" type="AUTO_DETECTED" />
+      <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern="portfolio-notes" type="JavaScript" />
       <mapping pattern="env" type="PLAIN_TEXT" />
       <mapping pattern="pof" type="PLAIN_TEXT" />
