@@ -1,5 +1,16 @@
 <application>
   <component name="libraryTable">
+    <library name="animate" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_animate.css_4.1.1_animate.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_animate.css_4.1.1_animate.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="axios" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -15,10 +26,12 @@
       <properties>
         <sourceFilesUrls>
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_twitter-bootstrap_3.3.7_js_bootstrap.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_twitter-bootstrap_4.3.1_css_bootstrap.css" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_twitter-bootstrap_3.3.7_js_bootstrap.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_twitter-bootstrap_4.3.1_css_bootstrap.css" />
       </CLASSES>
       <SOURCES />
     </library>
@@ -30,6 +43,17 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_bootstrap-datepicker_1.9.0_js_bootstrap-datepicker.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="buttons.dataTables" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.datatables.net_buttons_1.6.5_css_buttons.dataTables.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.datatables.net_buttons_1.6.5_css_buttons.dataTables.css" />
       </CLASSES>
       <SOURCES />
     </library>
@@ -55,6 +79,22 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="dataTables.checkboxes" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <option name="frameworkVersion" value="1.2.11" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__gyrocode.github.io_jquery-datatables-checkboxes_1.2.11_css_dataTables.checkboxes.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__gyrocode.github.io_jquery-datatables-checkboxes_1.2.11_css_dataTables.checkboxes.css" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
     <library name="datetime-moment" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -74,6 +114,17 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_fingerprintjs2_1.8.6_fingerprint2.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="font-awesome" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_font-awesome_4.7.0_css_font-awesome.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_font-awesome_4.7.0_css_font-awesome.css" />
       </CLASSES>
       <SOURCES />
     </library>
@@ -151,11 +202,24 @@
     <library name="jquery.dataTables" type="javaScript">
       <properties>
         <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.datatables.net_1.10.23_css_jquery.dataTables.css" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_datatables_1.10.16_js_jquery.dataTables.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.datatables.net_1.10.23_css_jquery.dataTables.css" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_datatables_1.10.16_js_jquery.dataTables.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="jquery.gritter" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.jsdelivr.net_npm_gritter@1.7.4_css_jquery.gritter.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.jsdelivr.net_npm_gritter@1.7.4_css_jquery.gritter.css" />
       </CLASSES>
       <SOURCES />
     </library>
@@ -208,6 +272,17 @@
       </DOCUMENTATION>
       <SOURCES />
     </library>
+    <library name="select.dataTables" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.datatables.net_select_1.3.0_css_select.dataTables.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.datatables.net_select_1.3.0_css_select.dataTables.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="sweetalert" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -216,6 +291,17 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_sweetalert_1.1.3_sweetalert.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="toastr" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_toastr.js_2.1.0_css_toastr.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_toastr.js_2.1.0_css_toastr.css" />
       </CLASSES>
       <SOURCES />
     </library>
