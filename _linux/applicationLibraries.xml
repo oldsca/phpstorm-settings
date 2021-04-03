@@ -117,6 +117,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="fixedColumns.dataTables" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.datatables.net_fixedcolumns_3.3.2_css_fixedColumns.dataTables.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.datatables.net_fixedcolumns_3.3.2_css_fixedColumns.dataTables.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="font-awesome" type="javaScript">
       <properties>
         <sourceFilesUrls>
