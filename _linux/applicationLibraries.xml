@@ -1,5 +1,18 @@
 <application>
   <component name="libraryTable">
+    <library name="alertify" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.jsdelivr.net_npm_alertifyjs@1.13.1_build_alertify.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.jsdelivr.net_npm_alertifyjs@1.13.1_build_css_alertify.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.jsdelivr.net_npm_alertifyjs@1.13.1_build_alertify.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.jsdelivr.net_npm_alertifyjs@1.13.1_build_css_alertify.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="animate" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -25,11 +38,13 @@
     <library name="bootstrap" type="javaScript">
       <properties>
         <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.jsdelivr.net_npm_alertifyjs@1.13.1_build_css_themes_bootstrap.css" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_twitter-bootstrap_3.3.7_js_bootstrap.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_twitter-bootstrap_4.3.1_css_bootstrap.css" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.jsdelivr.net_npm_alertifyjs@1.13.1_build_css_themes_bootstrap.css" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_twitter-bootstrap_3.3.7_js_bootstrap.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_twitter-bootstrap_4.3.1_css_bootstrap.css" />
       </CLASSES>
@@ -103,6 +118,17 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.datatables.net_plug-ins_1.10.16_sorting_datetime-moment.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="default" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.jsdelivr.net_npm_alertifyjs@1.13.1_build_css_themes_default.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.jsdelivr.net_npm_alertifyjs@1.13.1_build_css_themes_default.css" />
       </CLASSES>
       <SOURCES />
     </library>
@@ -306,6 +332,17 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.datatables.net_select_1.3.0_css_select.dataTables.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="semantic" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.jsdelivr.net_npm_alertifyjs@1.13.1_build_css_themes_semantic.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.jsdelivr.net_npm_alertifyjs@1.13.1_build_css_themes_semantic.css" />
       </CLASSES>
       <SOURCES />
     </library>
