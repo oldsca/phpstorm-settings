@@ -1,5 +1,16 @@
 <application>
   <component name="libraryTable">
+    <library name="additional-methods" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.jsdelivr.net_jquery.validation_1.16.0_additional-methods.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.jsdelivr.net_jquery.validation_1.16.0_additional-methods.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="alertify" type="javaScript">
       <properties>
         <sourceFilesUrls>
