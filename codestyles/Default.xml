@@ -53,8 +53,6 @@
   </JSCodeStyleSettings>
   <JSON>
     <option name="KEEP_TRAILING_COMMA" value="true" />
-    <option name="OBJECT_WRAPPING" value="0" />
-    <option name="ARRAY_WRAPPING" value="0" />
   </JSON>
   <MSSQLCodeStyleSettings version="5">
     <option name="USE_GENERAL_STYLE" value="false" />
@@ -123,9 +121,6 @@
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="JSON">
-    <option name="KEEP_LINE_BREAKS" value="false" />
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="FINALLY_ON_NEW_LINE" value="true" />
