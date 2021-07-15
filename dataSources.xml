@@ -104,7 +104,7 @@
       <synchronize>true</synchronize>
       <remarks>findthes_system</remarks>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://74.205.14.57:3306/findthes_system</jdbc-url>
+      <jdbc-url>jdbc:mysql://production-whm.c0jpywzdh6dm.us-east-1.rds.amazonaws.com:3306/findthes_system</jdbc-url>
       <driver-properties>
         <property name="serverTimezone" value="UTC" />
       </driver-properties>
