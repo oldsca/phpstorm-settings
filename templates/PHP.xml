@@ -22,7 +22,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="home" value="error_reporting(E_ALL);&#10;$remote_addr = $_SERVER['REMOTE_ADDR'] ?? '';&#10;$http_x = $_SERVER['HTTP_X_FORWARDED_FOR'] ?? '';&#10;if ($remote_addr == '67.242.114.109' || $http_x == '67.242.114.109') {&#10;    ini_set('display_errors', true);&#10;}&#10;$END$" description="" toReformat="false" toShortenFQNames="true">
+  <template name="home" value="error_reporting(E_ALL);&#10;$remote_addr = $_SERVER['REMOTE_ADDR'] ?? '';&#10;$http_x = $_SERVER['HTTP_X_FORWARDED_FOR'] ?? '';&#10;if ($remote_addr == '74.74.73.167' || $http_x == '74.74.73.167') {&#10;    ini_set('display_errors', true);&#10;}&#10;$END$" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
