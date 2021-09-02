@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="35.175.190.73" id="3895a2dc-98f5-43b2-a724-374d6b0d4572" keyPath="$USER_HOME$/.ssh/id_rsa" port="34522" customName="AWS web1" nameFormat="CUSTOM" username="twintie2">
+      <sshConfig host="35.175.190.73" id="3895a2dc-98f5-43b2-a724-374d6b0d4572" keyPath="$USER_HOME$/.ssh/id_rsa" port="34522" customName="AWS web1" nameFormat="CUSTOM" username="root">
         <option name="customName" value="AWS web1" />
       </sshConfig>
       <sshConfig host="35.175.190.73" id="a9201eec-5228-425a-9a03-030acb39c264" keyPath="$USER_HOME$/.ssh/id_rsa" port="34622" customName="AWS web3" nameFormat="CUSTOM" username="root">
