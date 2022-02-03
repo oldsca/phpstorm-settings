@@ -4,27 +4,27 @@
     <option name="HEX_COLOR_UPPER_CASE" value="true" />
     <option name="HEX_COLOR_LONG_FORMAT" value="true" />
   </CssCodeStyleSettings>
-  <DB2CodeStyleSettings version="5">
+  <DB2CodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SET_EL_WRAP" value="3" />
     <option name="SELECT_EL_WRAP" value="3" />
   </DB2CodeStyleSettings>
-  <DerbyCodeStyleSettings version="5">
+  <DerbyCodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SET_EL_WRAP" value="3" />
     <option name="SELECT_EL_WRAP" value="3" />
   </DerbyCodeStyleSettings>
-  <H2CodeStyleSettings version="5">
+  <H2CodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SET_EL_WRAP" value="3" />
     <option name="SELECT_EL_WRAP" value="3" />
   </H2CodeStyleSettings>
-  <H2CodeStyleSettings version="5">
+  <H2CodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SET_EL_WRAP" value="3" />
     <option name="SELECT_EL_WRAP" value="3" />
   </H2CodeStyleSettings>
-  <HSQLCodeStyleSettings version="5">
+  <HSQLCodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SET_EL_WRAP" value="3" />
     <option name="SELECT_EL_WRAP" value="3" />
@@ -54,17 +54,17 @@
   <JSON>
     <option name="KEEP_TRAILING_COMMA" value="true" />
   </JSON>
-  <MSSQLCodeStyleSettings version="5">
+  <MSSQLCodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SET_EL_WRAP" value="3" />
     <option name="SELECT_EL_WRAP" value="3" />
   </MSSQLCodeStyleSettings>
-  <MySQLCodeStyleSettings version="5">
+  <MySQLCodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SET_EL_WRAP" value="3" />
     <option name="SELECT_EL_WRAP" value="3" />
   </MySQLCodeStyleSettings>
-  <OracleCodeStyleSettings version="5">
+  <OracleCodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SET_EL_WRAP" value="3" />
     <option name="SELECT_EL_WRAP" value="3" />
@@ -82,21 +82,21 @@
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
     <option name="SPACE_AROUND_ASSIGNMENT_IN_DECLARE" value="true" />
   </PHPCodeStyleSettings>
-  <PostgresCodeStyleSettings version="5">
+  <PostgresCodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SET_EL_WRAP" value="3" />
     <option name="SELECT_EL_WRAP" value="3" />
   </PostgresCodeStyleSettings>
-  <SQLiteCodeStyleSettings version="5">
+  <SQLiteCodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SET_EL_WRAP" value="3" />
     <option name="SELECT_EL_WRAP" value="3" />
   </SQLiteCodeStyleSettings>
-  <SqlCodeStyleSettings version="5">
+  <SqlCodeStyleSettings version="6">
     <option name="SET_EL_WRAP" value="3" />
     <option name="SELECT_EL_WRAP" value="3" />
   </SqlCodeStyleSettings>
-  <SybaseCodeStyleSettings version="5">
+  <SybaseCodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SET_EL_WRAP" value="3" />
     <option name="SELECT_EL_WRAP" value="3" />
@@ -162,6 +162,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
