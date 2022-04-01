@@ -13,6 +13,7 @@
       <mapping pattern="adf" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="error_log" type="PLAIN_TEXT" />
+      <mapping pattern=".env2" type="PLAIN_TEXT" />
       <mapping pattern="testing" type="PLAIN_TEXT" />
       <mapping pattern="qandahold" type="PLAIN_TEXT" />
       <mapping pattern="instructions-read-me" type="PLAIN_TEXT" />
