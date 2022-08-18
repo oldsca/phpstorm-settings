@@ -16,5 +16,6 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*.php</mask>
+    <mask>*.es6</mask>
   </component>
 </application>
