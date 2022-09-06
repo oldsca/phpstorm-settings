@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0ea8f84f-0667-4771-afec-3872c50a3f78" name="AWS Web3">
+        <fileTransfer rootFolder="/web" accessType="SFTP" host="35.175.190.73" port="34622" sshConfigId="a9201eec-5228-425a-9a03-030acb39c264" sshConfig="AWS web3" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
